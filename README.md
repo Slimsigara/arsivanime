@@ -96,7 +96,6 @@ Bu depoda yer alan içeriklerin tüm hakları kendi sahiplerine aittir. Herhangi
 
 ## Arşiv Kaynakları
 
-- Projenin veritabanı kısmı [Nutaliaxd/TurkAnimeTV_Arsiv]
-(https://github.com/Nutaliaxd/TurkAnimeTV_Arsiv) projesinden alınmıştır. Ona da emekleri için çok teşekkürler :)
+- Projenin veritabanı kısmı [Nutaliaxd/TurkAnimeTV_Arsiv](https://github.com/Nutaliaxd/TurkAnimeTV_Arsiv) projesinden alınmıştır. Ona da emekleri için çok teşekkürler :)
 
 ⭐ **Bu projeyi beğendiyseniz GitHub üzerinden yıldız vererek destek olmayı unutmayın!**
