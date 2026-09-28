@@ -1,4 +1,4 @@
-# 🌸 Arşivanime — TürkAnime TV 2018 / 2021 Arşiv Portalı
+# Arşivanime — TürkAnime TV 2018 / 2021 Arşiv Portalı
 
 ## Proje Hakkında
 
