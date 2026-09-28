@@ -1,0 +1,33 @@
+# ============================================
+# Git Ignore Kuralları
+# ============================================
+
+# Python derleme ve bytecode dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# İşletim sistemi ve geçici dosyalar
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# IDE ve Editör yapılandırmaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Loglar ve geçici veriler
+*.log
+*.tmp
+*.bak
+*.bak_*
+
+# Yerelde zipten çıkarılan 200 MB'lık veritabanı (Git 100 MB sınırına takılmaması için)
+yeniarşivi/*.db
+*.7z
+*.rar
+!yeniarşivi/*.zip

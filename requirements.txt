@@ -1,0 +1,4 @@
+# Arsivanime  ~  https://github.com/Slimsigara/arsivanime ...
+# Bu proje tamamen Python standart kütüphanesi (Standart Library) ile çalışacak şekilde geliştirilmiştir.
+# Herhangi bir harici pip paketine ihtiyaç duymaz.
+# Python 3.8 veya daha güncel bir sürümün yüklü olması yeterlidir.
