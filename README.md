@@ -5,6 +5,8 @@
 Türkanime'nin eski websitesinin Wayback Machine kayıtları ile kullanılabilir hale getirilmiş halidir.
 2018 ve 2021 temaları arasında geçiş yapabilir ve kullanabilirsiniz.
 
+<img width="1760" height="994" alt="thumbnail" src="https://github.com/user-attachments/assets/4a2c0da0-b7df-4cfd-a5e5-d658857f4849" />
+
 ### **⚠️Kişisel olarak kullanım için yapılmıştır ve yayınlanmıştır. Projeyi alıp başka bir amaç için kullanmak için TASARLANMAMIŞTIR. Arşiv amacıyla kullanılmalıdır.⚠️**
 
 ---
