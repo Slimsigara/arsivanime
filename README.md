@@ -38,7 +38,7 @@ Bu projenin en büyük avantajı, **harici hiçbir bağımlılık (pip install) 
 ### Windows
 1. Depoyu indirin veya klonlayın:
    ```bash
-   https://github.com/Slimsigara/arsivanime.git
+   git clone https://github.com/Slimsigara/arsivanime.git
    ```
 2. Klasör içindeki **`baslat.bat`** dosyasına çift tıklayın.
 3. Sunucu otomatik olarak başlayacak ve varsayılan internet tarayıcınızda `http://localhost:8000` adresi açılacaktır.
@@ -46,7 +46,7 @@ Bu projenin en büyük avantajı, **harici hiçbir bağımlılık (pip install) 
 ### Linux / macOS
 1. Terminali açın ve proje dizinine gidin:
    ```bash
-   https://github.com/Slimsigara/arsivanime.git
+   git clone https://github.com/Slimsigara/arsivanime.git
    cd arsivanime
    ```
 2. Başlatma betiğine çalıştırma yetkisi verin ve çalıştırın:
